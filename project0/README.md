@@ -76,6 +76,17 @@ Docker is perhaps the most popular container technology at this time, and is wid
 - Once everything is initialized and the notebook starts, you can connect it to by opening your web browser and going to: http://localhost:8888/tree?token=279fb5e0fc0f240a90f913e7b9c9c068f36543a7d9544663  --- the `token` will be different for you. Look for it in the output of the command above.
 
 
+### Anaconda (Alternative to Docker)
+
+For those that are having trouble getting Docker set up, an easy-to-use alternative I recommend is Anaconda Navigator. Anaconda Navigator has many different applications within it that can be used, among them Jupyter Notebook (which will be used throughout the course). After cloning the class repository, install Anaconda Navigator, and then access Jupyter Notebook. The link to download Anaconda Navigator can be found below. 
+
+https://www.anaconda.com/products/distribution
+
+If you are having trouble with the installation process, a link with a step-by-step guide to installing Anaconda Navigator can be found below.
+
+https://www.youtube.com/watch?v=YU7ZGgPKSsA
+
+
 ### Python and Jupyter/IPython
 
 We will be using Python for most of the assignments. Python is easy to pick up, and we will also provide skeleton code for most of the assignments. 
