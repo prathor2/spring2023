@@ -1,9 +1,9 @@
-# CMSC320 - Introduction to Data Science - Fall 2022
+# CMSC320 - Introduction to Data Science - Spring 2023
 
-**Instructor:** [Maxsym Morawski]()
+**Instructor:** [Maxsym Morawski](morawski@umd.edu)
 
-**Lectures:** Section 0101: MW 3:30-4:45 in Iribe 0324; Section 0201: MWF 11:00-11:50 in CSI 1115
+**Lectures:** MWF 10:00-10:50 in IRB 0324
 
 **Website:** [https://cmsc320.github.io/](https://cmsc320.github.io/)
 
-This is a public repository containing the four projects (plus an initial tutorial on using git, Jupyter, Docker, and so on) given to students during the Fall 2022 session of the University of Maryland introductory data science course.  The repository will be updated over the course of the semester.
+This is a public repository containing the initial tutorial on using git, Jupyter, Docker, and so on, given to students during the Spring 2023 session of the University of Maryland introductory data science course.  The repository will be updated over the course of the semester.
