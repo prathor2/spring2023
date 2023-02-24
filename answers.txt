@@ -5,5 +5,12 @@ and preserves the history of both branches, while rebase applies changes
 from one branch on top of another, potentially rewriting the history of 
 the rebased branch to create a linear history.
 
+What is a remote repository?
+Answer: A remote repository is a Git repository hosted on a server that 
+is not on a local machine.
+
+
+
+
 
 
